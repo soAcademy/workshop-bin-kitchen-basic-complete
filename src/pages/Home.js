@@ -1,6 +1,6 @@
 import Banner from "../assets/banner.jpg"
 import MenuSection from "./MenuSection"
-import foodMenus from "./foodMenus"
+import foodMenus from "../assets/foodMenus"
 
 const MenuSectionGenerator = (
   menus
